@@ -1,0 +1,12 @@
+.env
+.env.*
+server.properties
+whitelist.json
+ops.json
+usercache.json
+banned-*.json
+logs/
+crash-reports/
+world/
+world_nether/
+world_the_end/

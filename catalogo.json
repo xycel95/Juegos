@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "juegos": [
+    {
+      "id": "minecraft",
+      "nombre": "Minecraft",
+      "rama": "Minecraft",
+      "url": "https://github.com/xycel95/Juegos/tree/Minecraft",
+      "series": [
+        {
+          "id": "hardcore-xtremow",
+          "nombre": "HARDCORE XTREMOW",
+          "url": "https://github.com/xycel95/Juegos/tree/Minecraft/HARDCORE-XTREMOW",
+          "inventario": "https://raw.githubusercontent.com/xycel95/Juegos/Minecraft/HARDCORE-XTREMOW/mods.json"
+        }
+      ]
+    }
+  ]
+}
