@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "series": "HARDCORE XTREMOW",
+  "game": "Minecraft Java",
+  "minecraft_version": "1.21.1",
+  "server_loader": "Fabric",
+  "prepared_on": "2026-10-25",
+  "origin": "Archivos originales de los tres mods instalados en el servidor, publicados por petición del propietario.",
+  "client_installation_tested": false,
+  "mods": [
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "version": "0.116.15+1.21.1",
+      "file": "fabric-api-0.116.15+1.21.1.jar",
+      "size": 2452718,
+      "sha256": "a61a10f730ab8aa45ff42486ee65699e6e51c28a0c168deb161e7d4029473aa3",
+      "declared_license": "Apache-2.0",
+      "license_files": [
+        "licencias/fabric-api/LICENSE-fabric-api"
+      ],
+      "url": "https://raw.githubusercontent.com/xycel95/Juegos/Minecraft/HARDCORE-XTREMOW/mods/fabric-api-0.116.15%2B1.21.1.jar",
+      "source": "https://github.com/FabricMC/fabric",
+      "description": "Biblioteca de apoyo para mods de Fabric."
+    },
+    {
+      "id": "hardcoreworldreset",
+      "name": "HardcoreWorldReset",
+      "version": "1.21.1-1.0.3",
+      "file": "hardcoreworldreset-1.21.1-1.0.3.jar",
+      "size": 44873,
+      "sha256": "8bedfb28a99d161f146b6a85d8bd789674fa1e12be7c9d1fdd44d5c1a95fcae6",
+      "declared_license": "CC0-1.0",
+      "license_files": [
+        "licencias/hardcoreworldreset/LICENSE_hardcoreworldreset"
+      ],
+      "url": "https://raw.githubusercontent.com/xycel95/Juegos/Minecraft/HARDCORE-XTREMOW/mods/hardcoreworldreset-1.21.1-1.0.3.jar",
+      "source": "https://github.com/FrankLoq/hardcoreworldreset",
+      "description": "Reinicia el mundo del servidor cuando muere un jugador."
+    },
+    {
+      "id": "timeoutout",
+      "name": "TimeOut Out",
+      "version": "1.0.4+1.20.2",
+      "file": "timeoutout-1.0.4+1.20.2.jar",
+      "size": 9342,
+      "sha256": "acb1be1b9b88aaee5d780199d407e5b6b04883c5d93a7f9a17e8f8d9eddfccba",
+      "declared_license": "MIT",
+      "license_files": [
+        "licencias/timeoutout/LICENSE_timeoutout"
+      ],
+      "url": "https://raw.githubusercontent.com/xycel95/Juegos/Minecraft/HARDCORE-XTREMOW/mods/timeoutout-1.0.4%2B1.20.2.jar",
+      "source": "https://github.com/PotatoPresident/TimeOutOut",
+      "description": "Permite ajustar los tiempos de espera de conexión."
+    }
+  ]
+}
