@@ -7,6 +7,13 @@ Responde en español, con explicaciones breves. Antes de modificar archivos, lee
 - El propietario pide por ahora solo los mods para compartir, con sus versiones, licencias y una descarga conjunta. No añadir mundos, mapas, instaladores del juego ni proyectos que no haya solicitado.
 - Mantener los archivos de Minecraft en su rama. No fusionarla automáticamente con main ni trasladar datos del repositorio privado de la web.
 
+## Navegación del catálogo
+- El README de `main` empieza por una lista de juegos. El nombre de cada juego enlaza a su índice; Minecraft enlaza a la raíz de la rama `Minecraft`.
+- El README de la rama `Minecraft` presenta una lista de servidores y series. Cada nombre enlaza a su carpeta; ahora hay una sola entrada: HARDCORE XTREMOW.
+- El README de cada servidor reúne su información, sus mods y las descargas, e incluye enlaces para volver al juego y al catálogo general.
+- Mantener el recorrido **Juegos → Juego → Servidor o serie → Mods y descargas**. Los accesos principales de los índices deben llevar al nivel siguiente, sin saltarse la elección del juego o del servidor.
+- Mantener `catalogo.json` como índice de metadatos de juegos y series. Añadir únicamente juegos y servidores reales cuando lo pida el propietario.
+
 ## Actualizar y comprobar
 - Leer la revisión remota antes de escribir, conservar cambios ajenos y actualizar la rama con la revisión esperada.
 - Conservar los bytes originales de los mods y las licencias incluidas en ellos. Revisar nombres, versiones, tamaño y SHA-256; comprobar la integridad del ZIP y su enlace público antes de anunciar una descarga.
