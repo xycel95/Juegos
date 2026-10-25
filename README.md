@@ -1,9 +1,18 @@
-# Minecraft · XYCEL
+# ⛏️ Minecraft
 
-## HARDCORE XTREMOW
+[← Volver a Juegos](https://github.com/xycel95/Juegos)
 
-**[Ver los mods de la serie y descargar el ZIP](HARDCORE-XTREMOW/README.md)**
+Aquí encontrarás nuestros servidores y series de Minecraft. Elige uno para ver su información, sus mods y sus descargas.
 
-La carpeta [HARDCORE-XTREMOW/mods](HARDCORE-XTREMOW/mods/) contiene los tres archivos individuales. En [HARDCORE-XTREMOW](HARDCORE-XTREMOW/) están su listado, las versiones, las licencias y el pack conjunto.
+## Servidores y series
 
-[Web de Minecraft](https://xycel95.es/minecraft/) · [Índice de Juegos](https://github.com/xycel95/Juegos)
+1. **[HARDCORE XTREMOW](https://github.com/xycel95/Juegos/tree/Minecraft/HARDCORE-XTREMOW)**  
+   Nuestra serie de supervivencia en Minecraft Java 1.21.1 con Fabric. Entra para consultar los mods que utiliza y descargar el pack completo o los archivos individuales.
+
+---
+
+## Cada partida, en su espacio
+
+Cada servidor tiene su propia carpeta, su listado de mods y sus archivos. Cuando añadamos otra serie o servidor de Minecraft, aparecerá aquí como una nueva entrada.
+
+[Ver Minecraft en nuestra web](https://xycel95.es/minecraft/) · [Todos los juegos](https://github.com/xycel95/Juegos)

@@ -1,5 +1,7 @@
 # HARDCORE XTREMOW · Pack de mods
 
+[Juegos](https://github.com/xycel95/Juegos) › [Minecraft](https://github.com/xycel95/Juegos/tree/Minecraft) › **HARDCORE XTREMOW**
+
 Los tres mods que utiliza nuestro servidor de **Minecraft Java 1.21.1 con Fabric**, reunidos para poder compartirlos. Se conservan los archivos originales y sus licencias.
 
 **[Descargar el ZIP completo](https://raw.githubusercontent.com/xycel95/Juegos/Minecraft/HARDCORE-XTREMOW/HARDCORE-XTREMOW-mods.zip)**
@@ -31,3 +33,7 @@ Paquete preparado el 25 de octubre de 2026. Cada JAR se ha comparado con el arch
 - [Licencias originales](licencias/).
 
 Si se actualizan los mods, se sustituirá la descarga vigente y se actualizarán aquí sus versiones y sus comprobaciones.
+
+---
+
+[← Ver todos los servidores de Minecraft](https://github.com/xycel95/Juegos/tree/Minecraft) · [Volver a Juegos](https://github.com/xycel95/Juegos)
